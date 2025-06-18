@@ -30,10 +30,6 @@ This project is a comprehensive analysis of retail sales using **Excel, SQL, and
 - Monthly and yearly sales trends
 - Customer segmentation based on purchase patterns
 
-## 📈 Sample Visuals
-
-> (You can add screenshots here using GitHub Markdown)
-
 ## 🔗 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/manish-raj-patwardhan-118532331/
